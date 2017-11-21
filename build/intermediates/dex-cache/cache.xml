@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_8662dcbffd77e58fecebd981bee8ba9ef2e07056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\200ded965d125644955a57202bd62b75d4691c78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc658479318797c8cdd0310e2dfccf817136de7f">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_384d7d8e7d158d0bde0b55de80f609d14ab08085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\d8392d5dee012eb491da3dc4c4633faafd7b546b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05a8106b4fcd85311ead700e37a58faf16587ad5">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_0d965a3c3a147f5ce84701a4155576a37938fe52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\689bc8358274865de208b5f988fba7adf7528d17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b7b769c2e819c4e6144da34c9df4ac0f56cf450">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_c62b99fdcaf24e2ca6ef6fdf691d8c7abeb058ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\glide-3.8.0_68d02754aa36d5b815a1bcd05dc92f00b56a4966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\e96913e7e405802091b950afead6bff772a07dcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97c40cd494770cd1cdb0f879c8426269a2d76702">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_60ef4a6ee532d6046082fcae631fce15523e4fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\463852f47ec01e25c87a98bf854efc9a24c4bab9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54d68bb0689dcea4be4bed21670a422421371661">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_0bb5beca8bb4cba97bfef6cb45e0794ec3b20852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\bddcd4690f6ef8b2ecba12013a264c556d4d3648\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ad78a00a0f2412d5078e8a2acfa02c28faedf9ff">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_5ae95df297aa17784d42245d0b6a6a83da7f997d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\d395be3332b63ab51905f8914b3870d2c8d83e5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3332adcdc1cdd7ed9a2f6a90f322c0e0c89ab91">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_88182f91fed00e8cddd47ffd5492b59763c87d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\412095e70e2f01663750d0a44b7478b2a95e8940\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="861dd8b4d38117b27f7e95c9fd555f69fe668138">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_dee2d5a36e25c9fc3a2a7992244385f6e4a768e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Temp\MaterialDrawer-develop\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02e3b866c51358c4f53456c9a4cb757b84d37ca2">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_456d6c96a391d997a49f2bf2057bc272b6586f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\fedfeb1d67cfecc9d824b409108f6d84a13c6ce8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="D:\Temp\MaterialDrawer-develop\app\build\intermediates\pre-dexed\debug\classes_64b0f286ae98ee0f117f60e22999aae3dc383ce3.jar" />
+    </item>
+
+</items>
